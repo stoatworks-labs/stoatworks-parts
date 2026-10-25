@@ -1,0 +1,11 @@
+# For the check.py scripts: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+# The models themselves only need OpenSCAD.
+manifold3d
+mapbox-earcut
+matplotlib
+networkx
+numpy
+pillow
+scipy
+shapely>=2
+trimesh>=4
